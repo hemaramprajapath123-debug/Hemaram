@@ -38,7 +38,7 @@ public class AllDropDownList {
 			String catname=catlist.get(i).getText();
 			if(catname.equalsIgnoreCase(item_tobe_check))
 			{
-				res="Test case Pass";
+				res="testststTest case Pass";
 				break;
 			}
 
