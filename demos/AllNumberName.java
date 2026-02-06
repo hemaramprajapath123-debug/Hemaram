@@ -41,7 +41,7 @@ public class AllNumberName {
 
 			 } 
 		  
-		 System.out.println("********************************Method 2 All Data By Two for Loops*********************************************");
+		 System.out.println("***********************************Method 2 All Data By Two for Loops*********************************************");
 		 for(int i=1;i<rows.size();i++)
 		 {
 			 List<WebElement> cols=rows.get(i).findElements(By.tagName("td"));
